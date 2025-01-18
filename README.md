@@ -1,5 +1,5 @@
 # Mission-Power-Profile-Generator
-This repository contains an Excel-based performance calculation sheet for the Airbus A320 aircraft. The sheet facilitates the determination of power profiles, fuel consumption, and other relevant metrics for arbitrary flight profiles. The tool is designed to aid in the comparative review of the suitability of alternative electric propulsion systems for similar usage scenarios.
+This repository contains an Excel-based performance calculation sheet for the Bombardier CRJ-700, Airbus A320 and Airbus-A380 aircraft. The sheet facilitates the determination of power profiles, fuel consumption, and other relevant metrics for arbitrary flight profiles. The tool is designed to aid in the comparative review of the suitability of alternative electric propulsion systems for similar usage scenarios.
 
 # Contents
 README.md: This file provides an overview of the repository.
